@@ -5,10 +5,12 @@ Based on Samsung kernel sources Kit Kat
 ****************************************************
 
 1. How to Build
-
 - get Toolchain
-SaberMod Toolchain 4.9.0
+SaberMod arm eabi 4.9.0 for kernel building
 https://bitbucket.org/Cl3Kener/sm-arm-eabi-4.9/overview
+	
+- edit Makefile
+https://github.com/omega-roms/G900F_Omega_Kernel_KK_4.4.2/commit/cb075f826237132588673502474ca851f183d700
 
 - Build
 		$ sudo su
